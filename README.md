@@ -1,5 +1,10 @@
 # Kütüphane Yönetim Sistemi
 
+## Kullanılan Araçlar
+- **Nesne Yönelimli Programlama**: Projemiz, nesne yönelimli programlama prensiplerine dayalı olarak geliştirilmiştir, bu da kodun daha anlaşılır ve yeniden kullanılabilir olmasını sağlar.
+- **PYQT5**: Python programlama dilinde yazılmış bir GUI (Arayüz) kitaplığıdır. Bu kitaplık, Qt kütüphanesi üzerine kurulmuştur ve modern bir arayüz tasarımı için çeşitli özellikler sunar.
+- **SQLite3**: Python veri tabanı kütüphanesi. Bilgilerin kaydedilmesini sağlar.
+
 ## Sayfalar
 
 ### Ana Sayfa
@@ -15,11 +20,6 @@
 - Ödünç alınan kitabı iade edebilmek için ana sayfadaki Etkinlik menüsünden Kitap İade butonuna basın.
 - Açılan pencerede iade etmek istediğiniz kitabı seçin.
 - İade Et butonuna basın.
-
-### Kullanılan Araçlar
-- **Nesne Yönelimli Programlama**: Projemiz, nesne yönelimli programlama prensiplerine dayalı olarak geliştirilmiştir, bu da kodun daha anlaşılır ve yeniden kullanılabilir olmasını sağlar.
-- **PYQT5**: Python programlama dilinde yazılmış bir GUI (Arayüz) kitaplığıdır. Bu kitaplık, Qt kütüphanesi üzerine kurulmuştur ve modern bir arayüz tasarımı için çeşitli özellikler sunar.
-- **SQLite3**: Python veri tabanı kütüphanesi. Bilgilerin kaydedilmesini sağlar.
 
 ## Uygulama İçinden Görüntüler
 Aşağıda uygulamadan alınmış ekran görüntüleri bulunmaktadır.
